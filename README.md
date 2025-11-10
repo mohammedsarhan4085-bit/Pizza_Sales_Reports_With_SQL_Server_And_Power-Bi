@@ -37,7 +37,7 @@ The central table is `pizza_sales`, which includes:
 
 ### 🔹Best And Worst Seller
 
-![Best And Worst Seller](Images/Best-Worst_Seller.PNG)
+![Best And Worst Seller](Images/Best_&_Worst_Seller.PNG)
 
 - **Busiest Days**: Friday and Saturday  
 - **Peak Months**: July to January  
